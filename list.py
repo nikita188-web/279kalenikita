@@ -1,5 +1,5 @@
 #operations on list
-
+#assignment no 1-B
 list=[1,2,4,3,5,2]    #list create
 print(list)
 list.insert(1,10)
