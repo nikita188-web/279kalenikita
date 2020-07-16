@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #assignment no 1-c
+=======
+#assignment no 1-D(1)
+>>>>>>> origin/master
 
 num1=int(input())       #read  2 integer input
 num2=int(input())
